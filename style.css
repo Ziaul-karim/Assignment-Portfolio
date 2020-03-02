@@ -1,0 +1,116 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+
+/*---------------------------Top Section--------------------------*/
+
+.top-banner{
+    background-image: url(img/header-bg.png);
+    height: 700px;
+    background-size: cover;
+    background-position: center;
+}
+
+
+.top-content{
+    width: 30%;
+    margin-left: 200px;
+    float: left;
+    
+}
+.top-content-left{
+    margin-top: 100px;
+    padding-left: 80px;
+}
+.top-content-right{
+    margin-top: 100px;
+    padding-right: 80px;
+}
+
+.btn-b{
+    padding: 15px 20px;
+    background: #3C93F9;
+    border: none;
+    border-radius: 3px;
+    color: aliceblue;
+    letter-spacing: 1px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.btn-b:hover{
+    background: #32A5EF;
+}
+
+.top-content img{
+    width: 100%;    
+}
+.name-style{
+    color: #3C93F9;
+    font-size: 50px;
+}
+
+
+/*---------------------------Middle Section--------------------------*/
+
+.biography{
+    background-image: url(img/biography-bg.png);
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 40px;
+}
+
+
+
+/*---------------------------Latest work Section--------------------------*/
+
+.latest-work{
+    background-image: url(img/latest-work-bg.png);
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    margin-top: 200px;
+}
+
+.latest-work-content img{
+    width: 20%;
+    float: left;
+    margin-left: 3%;
+    margin-top: 80px;
+}
+
+.latest-work h1{
+    font-size: 50px;
+}
+
+
+
+.clients-review{
+    background-image: url(img/footer-bg.png);
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    margin: auto;
+}
+
+.clients-review h1{
+    font-size: 40px;
+}
+
+.contact{
+    background: #3C93F9;
+    width: 50%;
+    margin: auto;
+    padding: 30px;
+    margin-top: 50px;
+    border-radius: 10px;
+    color: rgb(245, 245, 245);
+    letter-spacing: 2px;
+}
