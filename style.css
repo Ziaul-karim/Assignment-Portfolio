@@ -11,7 +11,7 @@ p{
 
 .top-banner{
     background-image: url(img/header-bg.png);
-    height: 700px;
+    height: 500px;
     background-size: cover;
     background-position: center;
 }
@@ -19,12 +19,12 @@ p{
 
 .top-content{
     width: 25%;
-    margin-left: 0px;
+    margin-left: 200px;
     float: left;
     
 }
 .top-content-left{
-    margin-top: 100px;
+    margin-top: 50px;
     padding-left: 80px;
 }
 .top-content-right{
